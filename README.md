@@ -1,4 +1,4 @@
-<img align="right" width="175" height="175" src="https://github.com/nenb/Py-Projects/blob/main/matrix_inv/foobar.png?raw=true">
+<img align="right" width="175" height="175" src="https://github.com/nenb/matrix_inv/blob/main/foobar.png?raw=true">
 
 # matrix_inv
 
